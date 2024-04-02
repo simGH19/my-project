@@ -12,13 +12,11 @@ export default function About() {
             I am a front-end developer / fullstack developer based in Sweden.
           </h3>
           <p className="text-secondary-100">
-            I am a front-end developer based in Sydney looking for exciting
-            opportunities. Has Mechanical Engineering background. Likes to focus
+            I am a front-end/fullstack developer based in Sweden looking for exciting
+            opportunities. I also got some experience in UX with 1 year of studies as an UX designer. Likes to focus
             on accessibility when developing. Passionate and curious about
-            solving problems. Currently, I’m exploring Reactjs, Webflow and a
-            bit of Designing. While I am not programming, I enjoy playing
-            football, photography and playing Valorant. Learning more to improve
-            skill.
+            solving problems and constantly wanting to learn more. Currently, I&apos;m focused on learning more about Next.js / javascript and are plannig to attend a summer course to learn Flutter aswell. 
+            While I am not programming, I enjoy playing video games, going to the gym and hang out with friends/family.
           </p>
         </div>
       </div>
