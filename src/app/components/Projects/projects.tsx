@@ -21,7 +21,7 @@ export default function Projects() {
           <div className="col-span-1 flex flex-col justify-center">
             <div className="rounded-xl bg-primary-200 hover:bg-transparent transition  p-8">
               <Image
-                src={"/Flowbic.png"}
+                src={"/flowbic.png"}
                 alt={"Simon"}
                 width={1280}
                 height={100}
