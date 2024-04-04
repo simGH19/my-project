@@ -20,7 +20,7 @@ const Contact: FC = () => {
   }
 
   return (
-    <section className="base-section">
+    <section className="base-section" id="form">
       <div className="grid md:grid-cols-2">
         <div className="colo-span-1 flex flex-col pb-12 md-pb-0">
           <h1 className="text-6xl font-bebas">Let’s connect</h1>

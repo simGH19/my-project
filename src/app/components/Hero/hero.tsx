@@ -17,7 +17,7 @@ export default function Hero() {
           </p>
           <div className="flex items-center gap-8">
             <Link
-              href={"/"}
+              href={"#form"}
               className="btn-round flex items-center justify-center text-black my-4"
             >
               CONTACT ME
@@ -32,7 +32,7 @@ export default function Hero() {
           </div>
         </div>
         <div className="flex flex-col justify-center col-span-1 py-8 rounded-lg">
-          <Image src={"/placeholder.webp"} alt={"Simon"} width={1280} height={100} style={{borderRadius: "25px"}} />
+          <Image src={"/simonbw.jpg"} alt={"Simon"} width={1280} height={100} style={{borderRadius: "25px"}} />
         </div>
       </div>
       <hr className="h-0.5 bg-secondary-100 opacity-50 my-12" />
