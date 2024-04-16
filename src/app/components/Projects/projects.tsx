@@ -42,7 +42,7 @@ export default function Projects() {
             <hr className="my-4 h-0.5 bg-secondary-100 opacity-50" />
             <div className="flex justify-between">
               <p>Tech stack</p>
-              <p className="text-secondary-100">Next.js / Tailwind css / Typescript / Node</p>
+              <p className="text-secondary-100">Next.js / Tailwind css / Typescript / Node </p>
             </div>
             <hr className="my-4 h-0.5 bg-secondary-100 opacity-50" />
             <div className="flex justify-between">
