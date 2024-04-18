@@ -35,7 +35,7 @@ const Contact: FC = () => {
             <br />
             For more info, here’s my{" "}
             <Link
-              href={"https://aquamarine-aurie-46.tiiny.site"}
+              href={"https://turquoise-mandy-91.tiiny.site"}
               className="underline underline-offset-2 text-primary-100"
               target="_blanc"
             >
