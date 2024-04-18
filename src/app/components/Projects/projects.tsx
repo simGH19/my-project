@@ -36,7 +36,7 @@ export default function Projects() {
             <p className="py-4 text-base text-secondary-100">
               Teamed up with a designer to breathe life into Flowbic&apos;s website where i had my internship
               during my studies. This was an already existing website where i got tasked with improving the design and also implement
-              some new features like OpenAI API chatbot.
+              some new features like a OpenAI API chatbot.
             </p>
             <p>PROJECT INFO</p>
             <hr className="my-4 h-0.5 bg-secondary-100 opacity-50" />
@@ -91,7 +91,7 @@ export default function Projects() {
               <p className="text-secondary-100">Fullstack Developer</p>
             </div>
             <hr className="my-4 h-0.5 bg-secondary-100 opacity-50" />
-            <Link href={"https://reliable-roan.vercel.app/"} target="_blanc">
+            <Link href={"https://www.reliable.se/"} target="_blanc">
               <div className=" underline underline-offset-4 text-primary-100 flex">
                 LIVE VIEW <Arrowright />
               </div>
