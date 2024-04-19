@@ -2,15 +2,19 @@ import Image from "next/image";
 import Link from "next/link";
 import React from "react";
 import Linked from "../Svg/linked";
+import TextAnim from "../typewriter/TextAnimation";
+import { EvervaultCard } from "../ui/evervault-card";
 
 export default function Hero() {
+  
   return (
     <section className="">
       <div className="grid grid-cols-1 md:grid-cols-2 base-section">
         <div className="flex flex-col justify-center order-first col-span-1 py-8 md:w-full w-4/5">
           <h1 className="text-white font-bebas text-4xl md:text-5xl font-medium mb-2">
-            HI, I AM <br /> SIMON GUMMESSON.
+          <TextAnim />
           </h1>
+          
           <p className="text-lg opacity-90">
             A Swedish based front-end developer passionate about building
             accessible and user friendly websites.
@@ -32,7 +36,7 @@ export default function Hero() {
           </div>
         </div>
         <div className="flex flex-col justify-center col-span-1 py-8 rounded-lg">
-          <Image src={"/simonbw.jpg"} alt={"Simon"} width={1280} height={100} style={{borderRadius: "25px"}} />
+          <EvervaultCard />
         </div>
       </div>
       <hr className="h-0.5 bg-secondary-100 opacity-50 my-12" />
